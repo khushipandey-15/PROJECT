@@ -52,5 +52,5 @@ This project is for educational purposes. Feel free to modify and use it.
 
 ---
 
-💡 **Developed by [Your Name]**  
+💡 **Developed by [KHUSHBOO KUMARI]**  
 🔗 **GitHub:** [khushipandey-15](https://github.com/khushipandey-15)
